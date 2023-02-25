@@ -1,7 +1,7 @@
-- 👋 Hi, I’m A B M Mustasin Billah
-- 👀 I’m interested in Devops, Cloud Engineering, System Engineering
-- 🌱 I’m currently learning Linux, BASH. Git, Docker, Jenkins, Computer Network, Virtual Machine, AWS
-- 💞️ I’m looking to collaborate on Devops projects, automation
+- 👋 Hi, I’m A B M Mustasin Billah.
+- 👀 I’m interested in Devops, Cloud Engineering, System Engineering.
+- 🌱 I’m currently learning Linux, BASH. Python, Git, Docker, Jenkins, Kubernetes, Ansible, AWS, Virtual Machine, Grafana.
+- 💞️ I’m looking to collaborate on Devops projects, automation.
 - 📫 You can reach me at linkedin.com/in/a-b-m-mustasin-billah-073660120
 
 <!---
